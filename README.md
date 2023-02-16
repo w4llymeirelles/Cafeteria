@@ -1,2 +1,2 @@
-# cefeteria
+# cafeteria
 Menu de uma Cafeteria
